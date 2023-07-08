@@ -95,6 +95,17 @@ margin-bottom: 20px;
     color: #757575;
     text-align: center;
     font-size: 18px;
-
+}
+main{
+    width: 1140px;
+    margin: 0 auto;
 
 }
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+    }
+    .about-info{
+        text-align: center;
+    }
+    
